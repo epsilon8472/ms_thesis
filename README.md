@@ -1,2 +1,2 @@
 # ms_thesis
-This repository contains my MS thesis "Optimally Solving the Orienteering Problem"
+This repository contains my MS thesis "Computing Optimal Solutions to the Orienteering Problem"
